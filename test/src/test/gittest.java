@@ -4,6 +4,7 @@ public class gittest {
 
 	public static void main(String[] args) {
 		System.out.print("ilk class");
+		System.out.print("heyy");
 
 	}
 
